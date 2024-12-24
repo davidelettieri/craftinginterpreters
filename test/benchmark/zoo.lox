@@ -1,3 +1,4 @@
+#lang racket-lox
 class Zoo {
   init() {
     this.aarvark  = 1;

@@ -1,3 +1,4 @@
+#lang racket-lox
 (){};,+-*!===<=>=!=<>/.
 
 // expect: LEFT_PAREN ( null

@@ -1,3 +1,4 @@
+#lang racket-lox
 fun f() {
   while (true) {
     var i = "i";

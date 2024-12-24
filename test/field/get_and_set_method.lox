@@ -1,3 +1,4 @@
+#lang racket-lox
 // Bound methods have identity equality.
 class Foo {
   method(a) {

@@ -1,3 +1,4 @@
+#lang racket-lox
 123
 123.456
 .456

@@ -1,3 +1,4 @@
+#lang racket-lox
 // Single-expression body.
 for (var c = 0; c < 3;) print c = c + 1;
 // expect: 1
