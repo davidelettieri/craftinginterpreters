@@ -1,1 +1,3 @@
+#lang racket-lox
+#lang racket-lox
 true(); // expect runtime error: Can only call functions and classes.

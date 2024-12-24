@@ -1,3 +1,4 @@
+#lang racket-lox
 // Single-expression body.
 var c = 0;
 while (c < 3) print c = c + 1;

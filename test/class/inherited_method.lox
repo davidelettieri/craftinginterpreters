@@ -1,3 +1,5 @@
+#lang racket-lox
+#lang racket-lox
 class Foo {
   inFoo() {
     print "in foo";

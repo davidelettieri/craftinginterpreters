@@ -1,3 +1,5 @@
+#lang racket-lox
+#lang racket-lox
 // This is a regression test. When closing upvalues for discarded locals, it
 // wouldn't make sure it discarded the upvalue for the correct stack slot.
 //

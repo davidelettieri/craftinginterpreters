@@ -1,3 +1,5 @@
+#lang racket-lox
+#lang racket-lox
 var f;
 
 fun f1() {

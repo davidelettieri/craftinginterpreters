@@ -1,3 +1,5 @@
+#lang racket-lox
+#lang racket-lox
 // This benchmark stresses instance creation and initializer calling.
 
 class Foo {

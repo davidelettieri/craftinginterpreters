@@ -1,3 +1,5 @@
+#lang racket-lox
+#lang racket-lox
 // Assignment on RHS of variable.
 var a = "before";
 var c = a = "var";
