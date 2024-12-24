@@ -1,4 +1,3 @@
-#lang racket-lox
 fun f() {
   // var v00; First slot already taken.
 

@@ -1,4 +1,3 @@
-#lang racket-lox
 var foo = "variable";
 
 class Foo {

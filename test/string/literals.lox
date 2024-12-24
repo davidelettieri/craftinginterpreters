@@ -1,4 +1,3 @@
-#lang racket-lox
 print "(" + "" + ")";   // expect: ()
 print "a string"; // expect: a string
 

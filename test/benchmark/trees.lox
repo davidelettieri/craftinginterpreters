@@ -1,5 +1,3 @@
-#lang racket-lox
-#lang racket-lox
 class Tree {
   init(depth) {
     this.depth = depth;

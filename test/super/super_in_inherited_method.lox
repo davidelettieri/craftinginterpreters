@@ -1,4 +1,3 @@
-#lang racket-lox
 class A {
   say() {
     print "A";

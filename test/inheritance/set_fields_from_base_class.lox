@@ -1,4 +1,3 @@
-#lang racket-lox
 class Foo {
   foo(a, b) {
     this.field1 = a;

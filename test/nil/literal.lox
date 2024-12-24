@@ -1,2 +1,1 @@
-#lang racket-lox
 print nil; // expect: nil

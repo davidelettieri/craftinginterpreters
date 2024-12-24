@@ -1,5 +1,3 @@
-#lang racket-lox
-#lang racket-lox
 var f;
 
 class Foo {

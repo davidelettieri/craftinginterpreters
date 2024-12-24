@@ -1,4 +1,3 @@
-#lang racket-lox
 fun caller(g) {
   g();
   // g should be a function, not nil.

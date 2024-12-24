@@ -1,4 +1,3 @@
-#lang racket-lox
 var f1;
 var f2;
 var f3;

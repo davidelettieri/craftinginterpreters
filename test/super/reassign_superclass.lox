@@ -1,4 +1,3 @@
-#lang racket-lox
 class Base {
   method() {
     print "Base.method()";

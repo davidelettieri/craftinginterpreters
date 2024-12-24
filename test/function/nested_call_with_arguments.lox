@@ -1,4 +1,3 @@
-#lang racket-lox
 fun returnArg(arg) {
   return arg;
 }

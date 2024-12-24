@@ -1,4 +1,3 @@
-#lang racket-lox
 // Unicode characters are allowed in comments.
 //
 // Latin 1 Supplement: £§¶ÜÞ

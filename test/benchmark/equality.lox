@@ -1,5 +1,3 @@
-#lang racket-lox
-#lang racket-lox
 var i = 0;
 
 var loopStart = clock();

@@ -1,4 +1,3 @@
-#lang racket-lox
 fun foo() {}
 {
   var a = 1;

@@ -1,5 +1,3 @@
-#lang racket-lox
-#lang racket-lox
 // * has higher precedence than +.
 print 2 + 3 * 4; // expect: 14
 

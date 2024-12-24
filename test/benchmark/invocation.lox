@@ -1,5 +1,3 @@
-#lang racket-lox
-#lang racket-lox
 // This benchmark stresses just method invocation.
 
 class Foo {

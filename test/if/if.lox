@@ -1,4 +1,3 @@
-#lang racket-lox
 // Evaluate the 'then' expression if the condition is true.
 if (true) print "good"; // expect: good
 if (false) print "bad";

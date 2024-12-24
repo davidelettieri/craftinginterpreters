@@ -1,4 +1,3 @@
-#lang racket-lox
 class Foo {
   bar() { return this; }
   baz() { return "baz"; }

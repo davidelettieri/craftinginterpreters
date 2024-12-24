@@ -1,4 +1,3 @@
-#lang racket-lox
 fun f() {
   if (true) return "ok";
 }
