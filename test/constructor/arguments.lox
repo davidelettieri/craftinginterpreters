@@ -1,3 +1,4 @@
+#lang racket-lox
 class Foo {
   init(a, b) {
     print "init"; // expect: init
@@ -7,5 +8,5 @@ class Foo {
 }
 
 var foo = Foo(1, 2);
-print foo.a; // expect: 1
-print foo.b; // expect: 2
+print foo.a; // expect: 1.0
+print foo.b; // expect: 2.0

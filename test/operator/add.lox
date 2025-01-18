@@ -1,2 +1,3 @@
-print 123 + 456; // expect: 579
+#lang racket-lox
+print 123 + 456; // expect: 579.0
 print "str" + "ing"; // expect: string

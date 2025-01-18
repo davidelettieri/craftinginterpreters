@@ -1,3 +1,4 @@
+#lang racket-lox
 class Foo {
   method0() { return "no args"; }
   method1(a) { return a; }
@@ -12,11 +13,11 @@ class Foo {
 
 var foo = Foo();
 print foo.method0(); // expect: no args
-print foo.method1(1); // expect: 1
-print foo.method2(1, 2); // expect: 3
-print foo.method3(1, 2, 3); // expect: 6
-print foo.method4(1, 2, 3, 4); // expect: 10
-print foo.method5(1, 2, 3, 4, 5); // expect: 15
-print foo.method6(1, 2, 3, 4, 5, 6); // expect: 21
-print foo.method7(1, 2, 3, 4, 5, 6, 7); // expect: 28
-print foo.method8(1, 2, 3, 4, 5, 6, 7, 8); // expect: 36
+print foo.method1(1); // expect: 1.0
+print foo.method2(1, 2); // expect: 3.0
+print foo.method3(1, 2, 3); // expect: 6.0
+print foo.method4(1, 2, 3, 4); // expect: 10.0
+print foo.method5(1, 2, 3, 4, 5); // expect: 15.0
+print foo.method6(1, 2, 3, 4, 5, 6); // expect: 21.0
+print foo.method7(1, 2, 3, 4, 5, 6, 7); // expect: 28.0
+print foo.method8(1, 2, 3, 4, 5, 6, 7, 8); // expect: 36.0

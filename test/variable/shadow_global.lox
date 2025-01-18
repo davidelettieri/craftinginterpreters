@@ -1,3 +1,4 @@
+#lang racket-lox
 var a = "global";
 {
   var a = "shadow";
