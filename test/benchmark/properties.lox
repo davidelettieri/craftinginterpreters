@@ -1,3 +1,4 @@
+#lang racket-lox
 // This benchmark stresses both field and method lookup.
 
 class Foo {

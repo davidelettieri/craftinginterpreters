@@ -1,3 +1,4 @@
+#lang racket-lox
 print nil != nil; // expect: false
 
 print true != true; // expect: false

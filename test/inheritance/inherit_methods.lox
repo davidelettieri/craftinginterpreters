@@ -1,3 +1,4 @@
+#lang racket-lox
 class Foo {
   methodOnFoo() { print "foo"; }
   override() { print "foo"; }

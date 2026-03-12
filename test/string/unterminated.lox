@@ -1,2 +1,3 @@
-// [line 2] Error: Unterminated string.
+#lang racket-lox
+// [line 3] Error: Unterminated string.
 "this string has no close quote
