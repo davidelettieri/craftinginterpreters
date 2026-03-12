@@ -18,9 +18,9 @@ var method = foo.method;
 foo.method = foo.other;
 foo.method(1);
 // expect: other
-// expect: 1.0
+// expect: 1
 
 // The old method handle still points to the original method.
 method(2);
 // expect: method
-// expect: 2.0
+// expect: 2

@@ -4,11 +4,11 @@
 
   // New variable is in inner scope.
   for (var i = 0; i < 1; i = i + 1) {
-    print i; // expect: 0.0
+    print i; // expect: 0
 
     // Loop body is in second inner scope.
     var i = -1;
-    print i; // expect: -1.0
+    print i; // expect: -1
   }
 }
 
@@ -22,6 +22,6 @@
 
   // Can reuse an existing variable.
   for (i = 0; i < 1; i = i + 1) {
-    print i; // expect: 0.0
+    print i; // expect: 0
   }
 }
